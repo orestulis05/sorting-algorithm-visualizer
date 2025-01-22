@@ -4,9 +4,6 @@
 // SFML Libs
 #include <SFML/Graphics.hpp>
 
-// Custom Libs
-#include "rMath.h"
-
 int main()
 {
     // ----------------- INIT -------------------
