@@ -1,2 +1,2 @@
-# sorting-algorithm-visualizer
- Sorting algorith visualizer done in C++
+# Sorting Algorithm Visualizer
+ Sorting Algorithm Visualizer written in C++ with SFML library.
